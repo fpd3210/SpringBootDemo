@@ -11,6 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.Map;
 
 /**
+ * 自定义异常视图
  * @author dpf
  * @create 2020-01-04 17:47
  * @email 446933040@qq.com
