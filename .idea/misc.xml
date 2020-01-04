@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/security_db/pom.xml" />
+        <option value="$PROJECT_DIR$/security-dy/pom.xml" />
+        <option value="$PROJECT_DIR$/security_hello/pom.xml" />
+        <option value="$PROJECT_DIR$/security-json/pom.xml" />
+        <option value="$PROJECT_DIR$/controlleradvice/pom.xml" />
+        <option value="$PROJECT_DIR$/exception/pom.xml" />
+        <option value="$PROJECT_DIR$/fileupload/pom.xml" />
+        <option value="$PROJECT_DIR$/static_sources/pom.xml" />
+        <option value="$PROJECT_DIR$/view-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa_thymeleaf_crud/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

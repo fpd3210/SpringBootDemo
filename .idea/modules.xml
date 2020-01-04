@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/controlleradvice/controlleradvice.iml" filepath="$PROJECT_DIR$/controlleradvice/controlleradvice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fileupload/fileupload.iml" filepath="$PROJECT_DIR$/fileupload/fileupload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa_thymeleaf_crud/jpa.iml" filepath="$PROJECT_DIR$/jpa_thymeleaf_crud/jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsp/jsp.iml" filepath="$PROJECT_DIR$/jsp/jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-dy/security-dy.iml" filepath="$PROJECT_DIR$/security-dy/security-dy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-json/security-json.iml" filepath="$PROJECT_DIR$/security-json/security-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security_db/security_db.iml" filepath="$PROJECT_DIR$/security_db/security_db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security_hello/security_hello.iml" filepath="$PROJECT_DIR$/security_hello/security_hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static_sources/static_sources.iml" filepath="$PROJECT_DIR$/static_sources/static_sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/view-thymeleaf/view-thymeleaf.iml" filepath="$PROJECT_DIR$/view-thymeleaf/view-thymeleaf.iml" />
+    </modules>
+  </component>
+</project>

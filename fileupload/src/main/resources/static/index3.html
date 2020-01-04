@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<!--
+多文件上传两种形式
+1.一个input(加multiple属性)
+后台接受数组
+2.多个input
+后台接受多个MultipartFile
+
+-->
+
+<form action="/uploads" method="post" enctype="multipart/form-data">
+    <input type="file" name="file" multiple>
+    <input type="submit" value="提交">
+</form>
+</body>
+</html>
