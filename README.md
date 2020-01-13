@@ -21,16 +21,6 @@ SpringBoot 整合学习例子
 | view_thymeleaf     |                     |
 | xml                | 加载xml配置         |
 | servlet            | 整合web基础组件     |
-|                    |                     |
-|                    |                     |
-|                    |                     |
-|                    |                     |
-|                    |                     |
-|                    |                     |
-|                    |                     |
-|                    |                     |
-|                    |                     |
-|                    |                     |
-|                    |                     |
+
 
 
