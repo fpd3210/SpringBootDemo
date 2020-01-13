@@ -2,17 +2,28 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/aop/aop.iml" filepath="$PROJECT_DIR$/aop/aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/controlleradvice/controlleradvice.iml" filepath="$PROJECT_DIR$/controlleradvice/controlleradvice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cros/cros.iml" filepath="$PROJECT_DIR$/cros/cros.iml" />
       <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/fileupload/fileupload.iml" filepath="$PROJECT_DIR$/fileupload/fileupload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interceptor/interceptor.iml" filepath="$PROJECT_DIR$/interceptor/interceptor.iml" />
       <module fileurl="file://$PROJECT_DIR$/jpa_thymeleaf_crud/jpa.iml" filepath="$PROJECT_DIR$/jpa_thymeleaf_crud/jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa2/jpa2.iml" filepath="$PROJECT_DIR$/jpa2/jpa2.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsp/jsp.iml" filepath="$PROJECT_DIR$/jsp/jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis2/mybatis2.iml" filepath="$PROJECT_DIR$/mybatis2/mybatis2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paramconverter/paramconverter.iml" filepath="$PROJECT_DIR$/paramconverter/paramconverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pathmapping/pathmapping.iml" filepath="$PROJECT_DIR$/pathmapping/pathmapping.iml" />
       <module fileurl="file://$PROJECT_DIR$/security-dy/security-dy.iml" filepath="$PROJECT_DIR$/security-dy/security-dy.iml" />
       <module fileurl="file://$PROJECT_DIR$/security-json/security-json.iml" filepath="$PROJECT_DIR$/security-json/security-json.iml" />
       <module fileurl="file://$PROJECT_DIR$/security_db/security_db.iml" filepath="$PROJECT_DIR$/security_db/security_db.iml" />
       <module fileurl="file://$PROJECT_DIR$/security_hello/security_hello.iml" filepath="$PROJECT_DIR$/security_hello/security_hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet/servlet.iml" filepath="$PROJECT_DIR$/servlet/servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/static_sources/static_sources.iml" filepath="$PROJECT_DIR$/static_sources/static_sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task/task.iml" filepath="$PROJECT_DIR$/task/task.iml" />
       <module fileurl="file://$PROJECT_DIR$/view-thymeleaf/view-thymeleaf.iml" filepath="$PROJECT_DIR$/view-thymeleaf/view-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xml/xml.iml" filepath="$PROJECT_DIR$/xml/xml.iml" />
     </modules>
   </component>
 </project>

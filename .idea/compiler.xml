@@ -6,47 +6,80 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="security_hello" />
-        <module name="fileupload" />
-        <module name="jpa" />
-        <module name="security01" />
+        <module name="paramconverter" />
+        <module name="mybatis" />
+        <module name="mybatis2" />
         <module name="security_db" />
-        <module name="security-json" />
-        <module name="exception" />
-        <module name="controlleradvice" />
-        <module name="jsp" />
-        <module name="static_sources" />
         <module name="security-dy" />
+        <module name="security01" />
+        <module name="jpa" />
+        <module name="controlleradvice" />
+        <module name="xml" />
+        <module name="jsp" />
+        <module name="security_hello" />
+        <module name="static_sources" />
+        <module name="aop" />
+        <module name="jpa2" />
+        <module name="pathmapping" />
+        <module name="security-json" />
         <module name="view-thymeleaf" />
+        <module name="fileupload" />
+        <module name="task" />
+        <module name="cros" />
+        <module name="interceptor" />
+        <module name="servlet" />
+        <module name="exception" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="aop" target="1.8" />
       <module name="controlleradvice" target="1.8" />
+      <module name="cros" target="1.5" />
       <module name="exception" target="1.8" />
       <module name="fileupload" target="1.8" />
+      <module name="interceptor" target="1.8" />
       <module name="jpa" target="1.8" />
+      <module name="jpa (1)" target="1.8" />
+      <module name="jpa2" target="1.8" />
       <module name="jsp" target="1.8" />
+      <module name="mybatis" target="1.8" />
+      <module name="mybatis2" target="1.8" />
+      <module name="paramconverter" target="1.8" />
+      <module name="pathmapping" target="1.8" />
       <module name="security-dy" target="1.8" />
       <module name="security-json" target="1.8" />
       <module name="security_db" target="1.8" />
       <module name="security_hello" target="1.8" />
+      <module name="servlet" target="1.8" />
       <module name="static_sources" target="1.8" />
+      <module name="task" target="1.5" />
       <module name="view-thymeleaf" target="1.8" />
+      <module name="xml" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="aop" options="-parameters" />
       <module name="controlleradvice" options="-parameters" />
       <module name="exception" options="-parameters" />
       <module name="fileupload" options="-parameters" />
+      <module name="interceptor" options="-parameters" />
       <module name="jpa" options="-parameters" />
+      <module name="jpa (1)" options="-parameters" />
+      <module name="jpa2" options="-parameters" />
       <module name="jsp" options="-parameters" />
+      <module name="mybatis" options="-parameters" />
+      <module name="mybatis2" options="-parameters" />
+      <module name="paramconverter" options="-parameters" />
+      <module name="pathmapping" options="-parameters" />
       <module name="security-dy" options="-parameters" />
       <module name="security-json" options="-parameters" />
       <module name="security_db" options="-parameters" />
       <module name="security_hello" options="-parameters" />
+      <module name="servlet" options="-parameters" />
       <module name="static_sources" options="-parameters" />
       <module name="view-thymeleaf" options="-parameters" />
+      <module name="xml" options="-parameters" />
     </option>
   </component>
 </project>

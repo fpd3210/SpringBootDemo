@@ -17,6 +17,17 @@
         <option value="$PROJECT_DIR$/view-thymeleaf/pom.xml" />
         <option value="$PROJECT_DIR$/jsp/pom.xml" />
         <option value="$PROJECT_DIR$/jpa_thymeleaf_crud/pom.xml" />
+        <option value="$PROJECT_DIR$/aop/pom.xml" />
+        <option value="$PROJECT_DIR$/cros/pom.xml" />
+        <option value="$PROJECT_DIR$/interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa2/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis2/pom.xml" />
+        <option value="$PROJECT_DIR$/paramconverter/pom.xml" />
+        <option value="$PROJECT_DIR$/pathmapping/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/task/pom.xml" />
+        <option value="$PROJECT_DIR$/xml/pom.xml" />
       </list>
     </option>
   </component>
