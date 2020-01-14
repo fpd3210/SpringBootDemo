@@ -6,29 +6,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="paramconverter" />
-        <module name="mybatis" />
-        <module name="mybatis2" />
+        <module name="exception" />
+        <module name="jpa_rest" />
         <module name="security_db" />
         <module name="security-dy" />
+        <module name="aop" />
         <module name="security01" />
         <module name="jpa" />
         <module name="controlleradvice" />
-        <module name="xml" />
         <module name="jsp" />
+        <module name="mongo_rest" />
         <module name="security_hello" />
+        <module name="mybatis2" />
+        <module name="mybatis" />
         <module name="static_sources" />
-        <module name="aop" />
-        <module name="jpa2" />
         <module name="pathmapping" />
         <module name="security-json" />
+        <module name="servlet" />
         <module name="view-thymeleaf" />
+        <module name="interceptor" />
         <module name="fileupload" />
         <module name="task" />
+        <module name="jpa2" />
         <module name="cros" />
-        <module name="interceptor" />
-        <module name="servlet" />
-        <module name="exception" />
+        <module name="xml" />
+        <module name="paramconverter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -41,7 +43,9 @@
       <module name="jpa" target="1.8" />
       <module name="jpa (1)" target="1.8" />
       <module name="jpa2" target="1.8" />
+      <module name="jpa_rest" target="1.8" />
       <module name="jsp" target="1.8" />
+      <module name="mongo_rest" target="1.8" />
       <module name="mybatis" target="1.8" />
       <module name="mybatis2" target="1.8" />
       <module name="paramconverter" target="1.8" />
@@ -67,7 +71,9 @@
       <module name="jpa" options="-parameters" />
       <module name="jpa (1)" options="-parameters" />
       <module name="jpa2" options="-parameters" />
+      <module name="jpa_rest" options="-parameters" />
       <module name="jsp" options="-parameters" />
+      <module name="mongo_rest" options="-parameters" />
       <module name="mybatis" options="-parameters" />
       <module name="mybatis2" options="-parameters" />
       <module name="paramconverter" options="-parameters" />

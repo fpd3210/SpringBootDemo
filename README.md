@@ -21,6 +21,7 @@ SpringBoot 整合学习例子
 | view_thymeleaf     |                     |
 | xml                | 加载xml配置         |
 | servlet            | 整合web基础组件     |
-
+| jpa_rest           | 基于jpa的rest风格应用|
+| mongo_rest         | 基于mongo的rest     |
 
 

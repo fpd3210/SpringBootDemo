@@ -28,6 +28,8 @@
         <option value="$PROJECT_DIR$/servlet/pom.xml" />
         <option value="$PROJECT_DIR$/task/pom.xml" />
         <option value="$PROJECT_DIR$/xml/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa_rest/pom.xml" />
+        <option value="$PROJECT_DIR$/mongo_rest/pom.xml" />
       </list>
     </option>
   </component>

@@ -10,7 +10,9 @@
       <module fileurl="file://$PROJECT_DIR$/interceptor/interceptor.iml" filepath="$PROJECT_DIR$/interceptor/interceptor.iml" />
       <module fileurl="file://$PROJECT_DIR$/jpa_thymeleaf_crud/jpa.iml" filepath="$PROJECT_DIR$/jpa_thymeleaf_crud/jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/jpa2/jpa2.iml" filepath="$PROJECT_DIR$/jpa2/jpa2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa_rest/jpa_rest.iml" filepath="$PROJECT_DIR$/jpa_rest/jpa_rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsp/jsp.iml" filepath="$PROJECT_DIR$/jsp/jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongo_rest/mongo_rest.iml" filepath="$PROJECT_DIR$/mongo_rest/mongo_rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis2/mybatis2.iml" filepath="$PROJECT_DIR$/mybatis2/mybatis2.iml" />
       <module fileurl="file://$PROJECT_DIR$/paramconverter/paramconverter.iml" filepath="$PROJECT_DIR$/paramconverter/paramconverter.iml" />
