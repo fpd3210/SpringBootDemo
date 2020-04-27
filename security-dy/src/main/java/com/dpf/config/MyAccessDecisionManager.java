@@ -17,9 +17,9 @@ public class MyAccessDecisionManager implements AccessDecisionManager {
 
     /**
      *  判定是否拥有权限的决策方法
-     * @param authentication
-     * @param o            包含客户端发起的请求的requset信息,可转换为 HttpServletRequest request = ((FilterInvocation) o).getHttpRequest();
-     * @param collection  过滤器传过来的许可角色
+     * @param authentication    当前登录用户的信息
+     * @param o                 包含客户端发起的请求的requset信息,可转换为 HttpServletRequest request = ((FilterInvocation) o).getHttpRequest();
+     * @param collection        过滤器传过来的许可角色
      * @throws AccessDeniedException
      * @throws InsufficientAuthenticationException
      */
@@ -37,9 +37,10 @@ public class MyAccessDecisionManager implements AccessDecisionManager {
                 }
             }
 
-            //当前用户所具有的权限
+            //当前登录用户所具有的权限
             Collection<? extends GrantedAuthority> authorities = authentication.getAuthorities();
             for (GrantedAuthority authority : authorities) {
+                //如果说当前登录用户所具有的权限有跟数据库当前用户权限匹配，那么放行
                 if (authority.getAuthority().equals(attribute.getAttribute())) {
                     return;
                 }

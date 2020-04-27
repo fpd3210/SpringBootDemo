@@ -30,10 +30,13 @@
         <option value="$PROJECT_DIR$/xml/pom.xml" />
         <option value="$PROJECT_DIR$/jpa_rest/pom.xml" />
         <option value="$PROJECT_DIR$/mongo_rest/pom.xml" />
+        <option value="$PROJECT_DIR$/security-verifycode/pom.xml" />
+        <option value="$PROJECT_DIR$/activemq_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/send_mail/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

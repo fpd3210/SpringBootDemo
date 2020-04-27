@@ -1,29 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/activemq_demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aop" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/controlleradvice" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/controlleradvice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exception" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fileupload" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fileupload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interceptor" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/interceptor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jpa2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa_rest" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jpa_rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa_thymeleaf_crud" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jpa_thymeleaf_crud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jsp" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jsp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mongo_rest" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mongo_rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paramconverter" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/paramconverter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pathmapping" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pathmapping/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pathmapping/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-dy" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/security-dy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-json" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/security-json/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-verifycode" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-verifycode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security_db" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/security_db/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security_hello" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/security_hello/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/send_mail" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/servlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/static_sources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/static_sources/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/view-thymeleaf" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/view-thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xml/src/main/java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/activemq_demo/activemq_demo.iml" filepath="$PROJECT_DIR$/activemq_demo/activemq_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/aop/aop.iml" filepath="$PROJECT_DIR$/aop/aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/controlleradvice/controlleradvice.iml" filepath="$PROJECT_DIR$/controlleradvice/controlleradvice.iml" />
       <module fileurl="file://$PROJECT_DIR$/cros/cros.iml" filepath="$PROJECT_DIR$/cros/cros.iml" />
@@ -19,8 +20,10 @@
       <module fileurl="file://$PROJECT_DIR$/pathmapping/pathmapping.iml" filepath="$PROJECT_DIR$/pathmapping/pathmapping.iml" />
       <module fileurl="file://$PROJECT_DIR$/security-dy/security-dy.iml" filepath="$PROJECT_DIR$/security-dy/security-dy.iml" />
       <module fileurl="file://$PROJECT_DIR$/security-json/security-json.iml" filepath="$PROJECT_DIR$/security-json/security-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-verifycode/security-verifycode.iml" filepath="$PROJECT_DIR$/security-verifycode/security-verifycode.iml" />
       <module fileurl="file://$PROJECT_DIR$/security_db/security_db.iml" filepath="$PROJECT_DIR$/security_db/security_db.iml" />
       <module fileurl="file://$PROJECT_DIR$/security_hello/security_hello.iml" filepath="$PROJECT_DIR$/security_hello/security_hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/send_mail/send_mail.iml" filepath="$PROJECT_DIR$/send_mail/send_mail.iml" />
       <module fileurl="file://$PROJECT_DIR$/servlet/servlet.iml" filepath="$PROJECT_DIR$/servlet/servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/static_sources/static_sources.iml" filepath="$PROJECT_DIR$/static_sources/static_sources.iml" />
       <module fileurl="file://$PROJECT_DIR$/task/task.iml" filepath="$PROJECT_DIR$/task/task.iml" />

@@ -23,16 +23,29 @@ public class SecurityConfig  extends WebSecurityConfigurerAdapter {
     @Autowired
     UserService userService;
 
+    /**
+     * 认证管理
+     * @param auth
+     * @throws Exception
+     */
     @Override
     protected void configure(AuthenticationManagerBuilder auth) throws Exception {
         auth.userDetailsService(userService);
     }
 
+    /**
+     * 加密方式
+     * @return
+     */
     @Bean
     PasswordEncoder passwordEncoder() {
         return new BCryptPasswordEncoder();
     }
 
+    /**
+     * 角色继承
+     * @return
+     */
     @Bean
     RoleHierarchy roleHierarchy() {
         RoleHierarchyImpl roleHierarchy = new RoleHierarchyImpl();
@@ -41,6 +54,12 @@ public class SecurityConfig  extends WebSecurityConfigurerAdapter {
         return roleHierarchy;
     }
 
+    /**
+     * 安全过滤器链
+     * 这个配置用得最多
+     * @param http
+     * @throws Exception
+     */
     @Override
     protected void configure(HttpSecurity http) throws Exception {
         http.authorizeRequests()

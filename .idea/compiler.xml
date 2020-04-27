@@ -6,37 +6,42 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="exception" />
+        <module name="activemq_demo" />
         <module name="jpa_rest" />
         <module name="security_db" />
         <module name="security-dy" />
-        <module name="aop" />
+        <module name="cros" />
         <module name="security01" />
+        <module name="view-thymeleaf" />
+        <module name="xml" />
         <module name="jpa" />
+        <module name="aop" />
         <module name="controlleradvice" />
         <module name="jsp" />
-        <module name="mongo_rest" />
+        <module name="send_mail" />
         <module name="security_hello" />
         <module name="mybatis2" />
         <module name="mybatis" />
+        <module name="mongo_rest" />
         <module name="static_sources" />
         <module name="pathmapping" />
         <module name="security-json" />
-        <module name="servlet" />
-        <module name="view-thymeleaf" />
+        <module name="exception" />
         <module name="interceptor" />
-        <module name="fileupload" />
+        <module name="security-verifycode" />
         <module name="task" />
         <module name="jpa2" />
-        <module name="cros" />
-        <module name="xml" />
+        <module name="fileupload" />
+        <module name="servlet" />
         <module name="paramconverter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="activemq_demo" target="1.8" />
       <module name="aop" target="1.8" />
       <module name="controlleradvice" target="1.8" />
       <module name="cros" target="1.5" />
+      <module name="demo" target="1.8" />
       <module name="exception" target="1.8" />
       <module name="fileupload" target="1.8" />
       <module name="interceptor" target="1.8" />
@@ -52,8 +57,10 @@
       <module name="pathmapping" target="1.8" />
       <module name="security-dy" target="1.8" />
       <module name="security-json" target="1.8" />
+      <module name="security-verifycode" target="1.8" />
       <module name="security_db" target="1.8" />
       <module name="security_hello" target="1.8" />
+      <module name="send_mail" target="1.8" />
       <module name="servlet" target="1.8" />
       <module name="static_sources" target="1.8" />
       <module name="task" target="1.5" />
@@ -63,8 +70,10 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="activemq_demo" options="-parameters" />
       <module name="aop" options="-parameters" />
       <module name="controlleradvice" options="-parameters" />
+      <module name="demo" options="-parameters" />
       <module name="exception" options="-parameters" />
       <module name="fileupload" options="-parameters" />
       <module name="interceptor" options="-parameters" />
@@ -80,8 +89,10 @@
       <module name="pathmapping" options="-parameters" />
       <module name="security-dy" options="-parameters" />
       <module name="security-json" options="-parameters" />
+      <module name="security-verifycode" options="-parameters" />
       <module name="security_db" options="-parameters" />
       <module name="security_hello" options="-parameters" />
+      <module name="send_mail" options="-parameters" />
       <module name="servlet" options="-parameters" />
       <module name="static_sources" options="-parameters" />
       <module name="view-thymeleaf" options="-parameters" />
