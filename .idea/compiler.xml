@@ -6,34 +6,35 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="fileupload" />
         <module name="activemq_demo" />
+        <module name="mybatis" />
         <module name="jpa_rest" />
         <module name="security_db" />
         <module name="security-dy" />
-        <module name="cros" />
+        <module name="exception" />
         <module name="security01" />
-        <module name="view-thymeleaf" />
-        <module name="xml" />
+        <module name="jpa2" />
         <module name="jpa" />
-        <module name="aop" />
         <module name="controlleradvice" />
-        <module name="jsp" />
         <module name="send_mail" />
+        <module name="jsp" />
         <module name="security_hello" />
         <module name="mybatis2" />
-        <module name="mybatis" />
+        <module name="aop" />
         <module name="mongo_rest" />
         <module name="static_sources" />
         <module name="pathmapping" />
+        <module name="paramconverter" />
         <module name="security-json" />
-        <module name="exception" />
-        <module name="interceptor" />
+        <module name="rabbitmq_demo" />
+        <module name="view-thymeleaf" />
         <module name="security-verifycode" />
         <module name="task" />
-        <module name="jpa2" />
-        <module name="fileupload" />
+        <module name="cros" />
+        <module name="interceptor" />
         <module name="servlet" />
-        <module name="paramconverter" />
+        <module name="xml" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -55,6 +56,7 @@
       <module name="mybatis2" target="1.8" />
       <module name="paramconverter" target="1.8" />
       <module name="pathmapping" target="1.8" />
+      <module name="rabbitmq_demo" target="1.8" />
       <module name="security-dy" target="1.8" />
       <module name="security-json" target="1.8" />
       <module name="security-verifycode" target="1.8" />
@@ -87,6 +89,7 @@
       <module name="mybatis2" options="-parameters" />
       <module name="paramconverter" options="-parameters" />
       <module name="pathmapping" options="-parameters" />
+      <module name="rabbitmq_demo" options="-parameters" />
       <module name="security-dy" options="-parameters" />
       <module name="security-json" options="-parameters" />
       <module name="security-verifycode" options="-parameters" />

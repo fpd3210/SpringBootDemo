@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/mybatis2/mybatis2.iml" filepath="$PROJECT_DIR$/mybatis2/mybatis2.iml" />
       <module fileurl="file://$PROJECT_DIR$/paramconverter/paramconverter.iml" filepath="$PROJECT_DIR$/paramconverter/paramconverter.iml" />
       <module fileurl="file://$PROJECT_DIR$/pathmapping/pathmapping.iml" filepath="$PROJECT_DIR$/pathmapping/pathmapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq_demo/rabbitmq_demo.iml" filepath="$PROJECT_DIR$/rabbitmq_demo/rabbitmq_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/security-dy/security-dy.iml" filepath="$PROJECT_DIR$/security-dy/security-dy.iml" />
       <module fileurl="file://$PROJECT_DIR$/security-json/security-json.iml" filepath="$PROJECT_DIR$/security-json/security-json.iml" />
       <module fileurl="file://$PROJECT_DIR$/security-verifycode/security-verifycode.iml" filepath="$PROJECT_DIR$/security-verifycode/security-verifycode.iml" />
