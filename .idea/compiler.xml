@@ -6,35 +6,36 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="fileupload" />
-        <module name="activemq_demo" />
-        <module name="mybatis" />
-        <module name="jpa_rest" />
-        <module name="security_db" />
-        <module name="security-dy" />
-        <module name="exception" />
-        <module name="security01" />
-        <module name="jpa2" />
-        <module name="jpa" />
-        <module name="controlleradvice" />
-        <module name="send_mail" />
         <module name="jsp" />
-        <module name="security_hello" />
-        <module name="mybatis2" />
         <module name="aop" />
-        <module name="mongo_rest" />
         <module name="static_sources" />
-        <module name="pathmapping" />
-        <module name="paramconverter" />
-        <module name="security-json" />
-        <module name="rabbitmq_demo" />
-        <module name="view-thymeleaf" />
-        <module name="security-verifycode" />
-        <module name="task" />
-        <module name="cros" />
-        <module name="interceptor" />
-        <module name="servlet" />
         <module name="xml" />
+        <module name="jpa_rest" />
+        <module name="jpa2" />
+        <module name="mybatis2" />
+        <module name="cros" />
+        <module name="rabbitmq_demo" />
+        <module name="task" />
+        <module name="servlet" />
+        <module name="jpa" />
+        <module name="security-verifycode" />
+        <module name="mongo_rest" />
+        <module name="security-jwt" />
+        <module name="exception" />
+        <module name="security-json" />
+        <module name="security_hello" />
+        <module name="send_mail" />
+        <module name="fileupload" />
+        <module name="view-thymeleaf" />
+        <module name="paramconverter" />
+        <module name="controlleradvice" />
+        <module name="mybatis" />
+        <module name="activemq_demo" />
+        <module name="interceptor" />
+        <module name="security-dy" />
+        <module name="pathmapping" />
+        <module name="security_db" />
+        <module name="security01" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -59,6 +60,7 @@
       <module name="rabbitmq_demo" target="1.8" />
       <module name="security-dy" target="1.8" />
       <module name="security-json" target="1.8" />
+      <module name="security-jwt" target="1.8" />
       <module name="security-verifycode" target="1.8" />
       <module name="security_db" target="1.8" />
       <module name="security_hello" target="1.8" />
@@ -92,6 +94,7 @@
       <module name="rabbitmq_demo" options="-parameters" />
       <module name="security-dy" options="-parameters" />
       <module name="security-json" options="-parameters" />
+      <module name="security-jwt" options="-parameters" />
       <module name="security-verifycode" options="-parameters" />
       <module name="security_db" options="-parameters" />
       <module name="security_hello" options="-parameters" />

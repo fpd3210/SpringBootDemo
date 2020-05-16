@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/rabbitmq_demo/rabbitmq_demo.iml" filepath="$PROJECT_DIR$/rabbitmq_demo/rabbitmq_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/security-dy/security-dy.iml" filepath="$PROJECT_DIR$/security-dy/security-dy.iml" />
       <module fileurl="file://$PROJECT_DIR$/security-json/security-json.iml" filepath="$PROJECT_DIR$/security-json/security-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-jwt/security-jwt.iml" filepath="$PROJECT_DIR$/security-jwt/security-jwt.iml" />
       <module fileurl="file://$PROJECT_DIR$/security-verifycode/security-verifycode.iml" filepath="$PROJECT_DIR$/security-verifycode/security-verifycode.iml" />
       <module fileurl="file://$PROJECT_DIR$/security_db/security_db.iml" filepath="$PROJECT_DIR$/security_db/security_db.iml" />
       <module fileurl="file://$PROJECT_DIR$/security_hello/security_hello.iml" filepath="$PROJECT_DIR$/security_hello/security_hello.iml" />

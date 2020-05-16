@@ -38,6 +38,7 @@
     <file url="file://$PROJECT_DIR$/security-dy/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/security-json" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/security-json/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-jwt/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/security-verifycode" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/security-verifycode/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/security_db" charset="UTF-8" />

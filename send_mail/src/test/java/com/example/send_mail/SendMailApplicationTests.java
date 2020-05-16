@@ -55,7 +55,9 @@ class SendMailApplicationTests {
      */
     @Test
     public void sendAttachFileMail() throws MessagingException {
+        //通过 javaMailSender 来获取一个复杂邮件对象
         MimeMessage mimeMessage = javaMailSender.createMimeMessage();
+        //利用 MimeMessageHelper 对邮件进行配置，MimeMessageHelper 是一个邮件配置的辅助工具类 ,true 表示构建一个 multipart message 类型的邮件
         MimeMessageHelper helper = new MimeMessageHelper(mimeMessage, true);
         helper.setSubject("邮件对象：这是一封测试邮件");
         helper.setFrom("446933040@qq.com");
