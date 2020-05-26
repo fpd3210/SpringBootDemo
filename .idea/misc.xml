@@ -35,6 +35,7 @@
         <option value="$PROJECT_DIR$/send_mail/pom.xml" />
         <option value="$PROJECT_DIR$/rabbitmq_demo/pom.xml" />
         <option value="$PROJECT_DIR$/security-jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/actuator/pom.xml" />
       </list>
     </option>
   </component>
