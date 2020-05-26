@@ -22,6 +22,7 @@
         <module name="security-verifycode" />
         <module name="actuator" />
         <module name="mongo_rest" />
+        <module name="admin-server" />
         <module name="security-jwt" />
         <module name="exception" />
         <module name="security-json" />
@@ -29,6 +30,7 @@
         <module name="send_mail" />
         <module name="fileupload" />
         <module name="view-thymeleaf" />
+        <module name="admin-client" />
         <module name="controlleradvice" />
         <module name="mybatis" />
         <module name="paramconverter" />
@@ -42,6 +44,8 @@
     <bytecodeTargetLevel>
       <module name="activemq_demo" target="1.8" />
       <module name="actuator" target="1.8" />
+      <module name="admin-client" target="1.8" />
+      <module name="admin-server" target="1.8" />
       <module name="aop" target="1.8" />
       <module name="controlleradvice" target="1.8" />
       <module name="cros" target="1.5" />
@@ -78,6 +82,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="activemq_demo" options="-parameters" />
       <module name="actuator" options="-parameters" />
+      <module name="admin-client" options="-parameters" />
+      <module name="admin-server" options="-parameters" />
       <module name="aop" options="-parameters" />
       <module name="controlleradvice" options="-parameters" />
       <module name="demo" options="-parameters" />

@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/activemq_demo/activemq_demo.iml" filepath="$PROJECT_DIR$/activemq_demo/activemq_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/actuator/actuator.iml" filepath="$PROJECT_DIR$/actuator/actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-client/admin-client.iml" filepath="$PROJECT_DIR$/admin-client/admin-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-server/admin-server.iml" filepath="$PROJECT_DIR$/admin-server/admin-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/aop/aop.iml" filepath="$PROJECT_DIR$/aop/aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/controlleradvice/controlleradvice.iml" filepath="$PROJECT_DIR$/controlleradvice/controlleradvice.iml" />
       <module fileurl="file://$PROJECT_DIR$/cros/cros.iml" filepath="$PROJECT_DIR$/cros/cros.iml" />
