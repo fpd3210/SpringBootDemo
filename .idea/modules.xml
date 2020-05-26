@@ -31,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/send_mail/send_mail.iml" filepath="$PROJECT_DIR$/send_mail/send_mail.iml" />
       <module fileurl="file://$PROJECT_DIR$/servlet/servlet.iml" filepath="$PROJECT_DIR$/servlet/servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/static_sources/static_sources.iml" filepath="$PROJECT_DIR$/static_sources/static_sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swagger2/swagger2.iml" filepath="$PROJECT_DIR$/swagger2/swagger2.iml" />
       <module fileurl="file://$PROJECT_DIR$/task/task.iml" filepath="$PROJECT_DIR$/task/task.iml" />
       <module fileurl="file://$PROJECT_DIR$/view-thymeleaf/view-thymeleaf.iml" filepath="$PROJECT_DIR$/view-thymeleaf/view-thymeleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/xml/xml.iml" filepath="$PROJECT_DIR$/xml/xml.iml" />

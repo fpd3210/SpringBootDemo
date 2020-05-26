@@ -15,6 +15,7 @@
         <module name="jpa2" />
         <module name="mybatis2" />
         <module name="cros" />
+        <module name="swagger2" />
         <module name="rabbitmq_demo" />
         <module name="task" />
         <module name="servlet" />
@@ -73,6 +74,7 @@
       <module name="send_mail" target="1.8" />
       <module name="servlet" target="1.8" />
       <module name="static_sources" target="1.8" />
+      <module name="swagger2" target="1.8" />
       <module name="task" target="1.5" />
       <module name="view-thymeleaf" target="1.8" />
       <module name="xml" target="1.8" />
@@ -110,6 +112,7 @@
       <module name="send_mail" options="-parameters" />
       <module name="servlet" options="-parameters" />
       <module name="static_sources" options="-parameters" />
+      <module name="swagger2" options="-parameters" />
       <module name="view-thymeleaf" options="-parameters" />
       <module name="xml" options="-parameters" />
     </option>

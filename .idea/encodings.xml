@@ -54,6 +54,7 @@
     <file url="file://$PROJECT_DIR$/servlet/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/static_sources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/static_sources/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/swagger2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/view-thymeleaf" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/view-thymeleaf/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xml" charset="UTF-8" />
