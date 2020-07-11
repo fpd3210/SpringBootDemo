@@ -21,6 +21,7 @@
         <module name="servlet" />
         <module name="jpa" />
         <module name="security-verifycode" />
+        <module name="redis_test" />
         <module name="actuator" />
         <module name="mongo_rest" />
         <module name="admin-server" />
@@ -65,6 +66,7 @@
       <module name="paramconverter" target="1.8" />
       <module name="pathmapping" target="1.8" />
       <module name="rabbitmq_demo" target="1.8" />
+      <module name="redis_test" target="1.8" />
       <module name="security-dy" target="1.8" />
       <module name="security-json" target="1.8" />
       <module name="security-jwt" target="1.8" />
@@ -103,6 +105,7 @@
       <module name="paramconverter" options="-parameters" />
       <module name="pathmapping" options="-parameters" />
       <module name="rabbitmq_demo" options="-parameters" />
+      <module name="redis_test" options="-parameters" />
       <module name="security-dy" options="-parameters" />
       <module name="security-json" options="-parameters" />
       <module name="security-jwt" options="-parameters" />

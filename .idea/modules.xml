@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/paramconverter/paramconverter.iml" filepath="$PROJECT_DIR$/paramconverter/paramconverter.iml" />
       <module fileurl="file://$PROJECT_DIR$/pathmapping/pathmapping.iml" filepath="$PROJECT_DIR$/pathmapping/pathmapping.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbitmq_demo/rabbitmq_demo.iml" filepath="$PROJECT_DIR$/rabbitmq_demo/rabbitmq_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis_test/redis_test.iml" filepath="$PROJECT_DIR$/redis_test/redis_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/security-dy/security-dy.iml" filepath="$PROJECT_DIR$/security-dy/security-dy.iml" />
       <module fileurl="file://$PROJECT_DIR$/security-json/security-json.iml" filepath="$PROJECT_DIR$/security-json/security-json.iml" />
       <module fileurl="file://$PROJECT_DIR$/security-jwt/security-jwt.iml" filepath="$PROJECT_DIR$/security-jwt/security-jwt.iml" />
