@@ -26,7 +26,8 @@ import java.util.Map;
 @Slf4j
 @Aspect
 @Component
-public class LimitAspect2 {
+public class LimitAspect {
+    
     private final Map<String, RateLimiter> limitMap = Maps.newConcurrentMap();
 
     @Before("@annotation(limit)")
