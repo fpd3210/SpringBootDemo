@@ -27,7 +27,7 @@ import java.util.Map;
 @Aspect
 @Component
 public class LimitAspect {
-    
+
     private final Map<String, RateLimiter> limitMap = Maps.newConcurrentMap();
 
     @Before("@annotation(limit)")
@@ -54,6 +54,12 @@ public class LimitAspect {
         }
     }
 
+    /**
+     * 生成key
+     * @param rateLimiter
+     * @param point
+     * @return
+     */
     public String getCombineKey(Limit rateLimiter, JoinPoint point) {
         StringBuffer stringBuffer = new StringBuffer(rateLimiter.key());
         if (rateLimiter.limitType() == LimitType.IP) {
