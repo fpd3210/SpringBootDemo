@@ -1,31 +1,51 @@
 
 # SpringBootDemo
-SpringBoot 整合学习例子
+- activemq_demo
+- actuator
+- admin-client
+-  admin-server
 
-| 项目名             | 解释                |
-| ------------------ | ------------------- |
-| aop                | 整合aop             |
-| controlleradvice   | 异常处理            |
-| cros               | 跨域问题            |
-| exception          | 自定义异常信息/视图 |
-| fileupload         | 文件上传            |
-| interceptor        | 拦截器              |
-| jpa                | 整合jpa             |
-| jpa2               | 整合jap多数据源     |
-| jpa-thymeleaf_crud |                     |
-| jsp                | 整合jsp             |
-| mybatis            | 整合mybatis         |
-| mybatis2           | 整合mybatis多数据源 |
-| paramconverter     | 参数格式转换        |
-| pathmapping        | 路径映射            |
-| task               | 定义系统任务        |
-| view_thymeleaf     |                     |
-| xml                | 加载xml配置         |
-| servlet            | 整合web基础组件     |
-| jpa_rest           | 基于jpa的rest风格应用|
-| mongo_rest         | 基于mongo的rest     |
-
-
+- aop   
+- async 异步调用
+- cache-ehcache  ehcache缓存
+- cache-redis   redis缓存
+- cache-single  本地缓存
+- controlleradvice
+- create-spring-starter  手写starter
+- cros 跨域处理
+- exception  
+- fileupload 文件上传
+- interceptor  拦截器
+- interface-idempotency 接口幂等性
+-  jpa
+-  jpa2
+- jpa_rest
+- jpa_thymeleaf_crud
+- jsp
+- limiting  限流
+- mongo MongoDB crud
+- mongo_rest 
+- mybatis
+- mybatis2
+- paramconverter 接口如参格式转换
+- pathmapping
+- rabbitmq_demo
+- redis_test
+- security-dy
+- security-json
+- security-jwt
+- security-verifycode
+- security_db
+- security_hello
+- send_mail
+- servlet
+- static_sources
+- swagger2
+- task
+- view-thymeleaf
+- websocket
+-  welcome
+-  xml
 
 
 

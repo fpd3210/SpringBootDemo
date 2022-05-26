@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc7a9929-9a49-4a32-8665-1c15f7e8ac18" name="Default Changelist" comment="" />
+    <list default="true" id="cc7a9929-9a49-4a32-8665-1c15f7e8ac18" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +27,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -33,7 +47,6 @@
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
@@ -42,9 +55,9 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1VyAOau1BKpvLh1ifgYU6SVYiaY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -54,9 +67,12 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -69,6 +85,9 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -83,6 +102,17 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.ApplicationrunnerApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ApplicationrunnerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="applicationrunner" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.dpf.ApplicationrunnerApplication" />
@@ -127,6 +157,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -138,64 +169,22 @@
       <option name="presentableId" value="Default" />
       <updated>1578214929660</updated>
       <workItem from="1578214932749" duration="3725000" />
+      <workItem from="1653555982743" duration="951000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="165" y="188" width="1361" height="703" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578217278414">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="165" y="188" width="1361" height="703" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578217278414" />
-    <state x="1196" y="212" key="#com.intellij.ide.util.MemberChooser" timestamp="1578216028744">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1196" y="212" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578216028744" />
-    <state width="1280" height="259" key="GridCell.Tab.0.bottom" timestamp="1578227086426">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1280" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578227086426" />
-    <state width="1280" height="259" key="GridCell.Tab.0.center" timestamp="1578227086426">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1280" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578227086426" />
-    <state width="1280" height="259" key="GridCell.Tab.0.left" timestamp="1578227086426">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1280" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578227086426" />
-    <state width="1280" height="259" key="GridCell.Tab.0.right" timestamp="1578227086426">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1280" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578227086426" />
-    <state width="1280" height="259" key="GridCell.Tab.1.bottom" timestamp="1578227086426">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1280" height="259" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578227086426" />
-    <state width="1280" height="259" key="GridCell.Tab.1.center" timestamp="1578227086426">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1280" height="259" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578227086426" />
-    <state width="1280" height="259" key="GridCell.Tab.1.left" timestamp="1578227086426">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1280" height="259" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578227086426" />
-    <state width="1280" height="259" key="GridCell.Tab.1.right" timestamp="1578227086426">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1280" height="259" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578227086426" />
-    <state x="0" y="0" key="SettingsEditor" timestamp="1578215111860">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="0" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578215111860" />
-    <state x="244" y="144" width="1598" height="695" key="new project wizard" timestamp="1578227084358">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="244" y="144" width="1598" height="695" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578227084358" />
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1578217382518">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578217382518" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
