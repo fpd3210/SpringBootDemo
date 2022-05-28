@@ -3,8 +3,7 @@
 - activemq_demo
 - actuator
 - admin-client
--  admin-server
-
+- admin-server
 - aop   
 - async 异步调用
 - cache-ehcache  ehcache缓存
@@ -17,8 +16,8 @@
 - fileupload 文件上传
 - interceptor  拦截器
 - interface-idempotency 接口幂等性
--  jpa
--  jpa2
+- jpa
+- jpa2
 - jpa_rest
 - jpa_thymeleaf_crud
 - jsp
@@ -44,8 +43,9 @@
 - task
 - view-thymeleaf
 - websocket
--  welcome
--  xml
+- welcome
+- xml
+- transaction：事务相关
 
 
 
